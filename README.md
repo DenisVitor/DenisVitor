@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋! Denis here.</h1>
- <p align="center">I´m front-end developer on focusing to become an full-stack web developer, like to learn about the world of technology and be inspired for the histories behind, like to talk not only about technologies, but about subjects that I don't know, as this helps me seek more knowledge.</p>
+ <p align="center">I´m <b>front-end developer</b> on focusing to become an <strong>full-stack web developer</strong>, like to learn about the world of technology and be inspired for the histories behind, like to talk not only about technologies, but about subjects that I don't know, as this helps me seek more knowledge.</p>
  <br/></br>
 <div>
  <img align="right" src="https://www.naqshdesigns.in/images/resource/app.gif" alt="teamwork" width="320" height="200"/>
   <p align="left">
-- 🔭 I’m currently working on front-end developer, on focus to became an full-stack developer.<br/>
-- 🌱 I’m currently learning Redux, Webpack, React-Native and others.<br/>
+- 🔭 I’m currently working on <b>front-end developer</b>, on focus to became an <b>full-stack developer</b>.<br/>
+- 🌱 I’m currently learning  <b>Redux, Webpack, React-Native</b> and others.<br/>
 - 💬 Ask me about anything, if i can respond i will do it.<br/>
   </p>
 </div>
