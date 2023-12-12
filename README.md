@@ -9,7 +9,7 @@
 - 💬 Ask me about anything, if i can respond i will do it.<br/>
   </p>
 </div>
-
+<br/><br/>
 <br/><br/>
 <br/><br/>
 <div>
@@ -35,6 +35,7 @@
    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/Nest.js-Nest?style=for-the-badge&logo=nestjs&color=%23E0234E">
   </div> 
 </div>
 <br/><br/>
@@ -43,6 +44,7 @@
   <br/><br/>
   <div align="left">
     <h3>📱Contact me on: </h3>
+   <p>There will be more links, but for now these are the only contacts.⌚</p>
     <hr />
     <a href="mailto:denisvitor41@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
     <a href="https://www.linkedin.com/in/denisson-victor-17963b212/" traget-"_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
