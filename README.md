@@ -4,8 +4,11 @@
 <div>
  <img align="right" src="https://www.naqshdesigns.in/images/resource/app.gif" alt="teamwork" width="320" height="200"/>
   <p align="left">
-- 🔭 I’m currently working on <b>front-end developer</b>, on focus to became an <b>full-stack developer</b>.<br/>
+- 🔭 I’m currently working on <b>front-end developer</b>, <br/> 
+- on focus to became an <b>full-stack developer</b>.<br/>
+   <br/>
 - 🌱 I’m currently learning  <b>Redux, Webpack, React-Native</b> and others.<br/>
+   <br/>
 - 💬 Ask me about anything, if i can respond i will do it.<br/>
   </p>
 </div>
