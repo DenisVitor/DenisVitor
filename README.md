@@ -6,7 +6,7 @@
   <p align="left">
 - 🔭 I’m currently working on <b>fullstack web developer</b>
    <br/>
-- 🌱 I’m currently learning  <b>Java, Springboot, Angular</b> and others.<br/>
+- 🌱 I’m currently learning  <b>Vue, Nuxt and Webpack</b> and others.<br/>
    <br/>
 - 💬 Ask me about anything, if i can respond i will do it.<br/>
   </p>
